@@ -1,6 +1,4 @@
-/* **************************
-HTML Elements 
-************************** */
+
 html {
 	position: relative;
 }
@@ -28,9 +26,7 @@ h2 {
 	font-size: 1.3em;
 }
 
-/* **************************
-Layout 
-************************** */
+
 
 /* Header */
 header {
@@ -113,7 +109,7 @@ header .container {
 
 .main {
 	display: inline-block;
-	width: 570px;
+	width: 960px;
 	margin: 40px 0;
 	padding: 40px;
 	background-color: #ffffff;
